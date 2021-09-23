@@ -4,6 +4,13 @@
   
 - Currently at the very beginning of my coding learning journey
 - mhm
+
+### Connect with me:
+
+[<img align="left" alt="shkoop | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="shkoop | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Shko_op | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
 <br />
 
 ### Languages and Tools:
@@ -14,3 +21,7 @@
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 
 <br />
+
+[youtube]: https://www.youtube.com/channel/UCZkqZgGH2-K2uMdr6NCZ28g
+[twitter]: https://twitter.com/shkoop
+[instagram]: https://www.instagram.com/Shko_op/
